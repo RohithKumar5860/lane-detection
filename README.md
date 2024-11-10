@@ -4,7 +4,7 @@
 <h3>
   Summary 
 </h3>
-
+<img src = "lanedetection.png">
 <p>
   
 Lane detection is an essential technique in self-driving cars and advanced driver assistance systems (ADAS) for keeping vehicles safely within lane boundaries. In Python, lane detection commonly involves computer vision libraries like OpenCV. The process typically starts with capturing video frames from a camera and then pre-processing them to enhance lane visibility.
